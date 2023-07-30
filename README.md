@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou o Vinicius Baubinas</h1>
 <h3 align="center">Apaixonado em desenvolver e criar. Web/Games</h3>
 
-- 🔭Atualmente estou em busca de uma oportunidade como Dev (http://127.0.0.1:5500/index.html)
+- 🔭Atualmente estou em busca de uma oportunidade como Dev 
 
 - 🤝 Atualmente estou aprendendo **Phyton e implantação de IA em nuvem**
 
