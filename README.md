@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, eu sou o Vinicius Baubinas</h1>
-<h3 align="center">Apaixonado em desenvolver e criar. Web/Games</h3>
+<h3 align="center">Apaixonado em desenvolver e criar.</h3>
 
 - 🔭Atualmente estou em busca de uma oportunidade como Dev 
 
-- 🤝 Atualmente estou aprendendo **Phyton e implantação de IA em nuvem**
+- 🤝 Atualmente estou aprendendo **Phyton e JavaScript**
 
 - 📄 Sem experiência profissional. [https://www.linkedin.com/in/vinicius-baubinas-614a8b180](https://www.linkedin.com/in/vinicius-baubinas-614a8b180)
 
