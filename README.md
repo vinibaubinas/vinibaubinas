@@ -3,7 +3,7 @@
 
 - 🔭Atualmente estou em busca de uma oportunidade como Dev 
 
-- 🤝 Atualmente estou aprendendo **Phyton e JavaScript**
+- 🤝 Atualmente estou aprendendo **Java**
 
 - 📄 Sem experiência profissional. [https://www.linkedin.com/in/vinicius-baubinas-614a8b180](https://www.linkedin.com/in/vinicius-baubinas-614a8b180)
 
