@@ -5,7 +5,7 @@
 
 - 🤝 Atualmente estou aprendendo **Java**
 
-- 📄 Sem experiência profissional. [https://www.linkedin.com/in/vinicius-baubinas-614a8b180](https://www.linkedin.com/in/vinicius-baubinas-614a8b180)
+- 📄 Sem experiência profissional na area da programação. [https://www.linkedin.com/in/vinicius-baubinas-614a8b180](https://www.linkedin.com/in/vinicius-baubinas-614a8b180)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
